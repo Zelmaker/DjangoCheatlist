@@ -105,5 +105,10 @@ News.objects.order_by('-title')
 News.objects.exclude(title='Lorem ipsum')
 
 
+![image](https://user-images.githubusercontent.com/113107446/208053413-3e92ba07-958d-4bc7-8e76-c03d384732fc.png)
+
+python manage.py collectstatic
+
+
 
 
